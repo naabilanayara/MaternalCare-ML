@@ -5,10 +5,10 @@ Role as ML Cohort, we focused on applying deep learning models and techniques to
 1. **Finding an Accurate and Relevant Dataset:**
 The dataset used must align with the issue being addressed and possess high validity. The search was conducted through accredited journals and platforms like Kaggle to ensure data quality and relevance.  
 
-2. **Using Python and Google Colab:**  
+3. **Using Python and Google Colab:**  
 The model development process was carried out using Python and Google Colab as the processing and training environment. Deep Learning techniques were applied to build the model to predict the desired outcomes.  
 
-3. **Model Development for the Deployment Phase:**  
+4. **Model Development for the Deployment Phase:**  
 The designed code and model will be handed over for further deployment to the CC (Computer Science/Cloud Computing) teams and MD (Mobile Development) teams to integrate the results into the application or production environment.
 
 # ML Important Link
