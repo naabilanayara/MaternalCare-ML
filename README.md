@@ -1,5 +1,5 @@
 # MaternalCare-ML
-Role as ML Cohort We focus on applying deep learning models and techniques to predict maternal health risks based on existing medical data. The output is an analysis of pregnancy risk for mothers and potential challenges they may face. This can be useful for preventing stunting in fetuses and minimizing the risk of miscarriage.
+Role as ML Cohort, we focused on applying deep learning models and techniques to predict maternal health risks based on existing medical data. The output is an analysis of pregnancy risk for mothers and potential challenges they may face. This can be useful for preventing stunting in fetuses and minimizing the risk of miscarriage.
 
 # ML Steps Taken
 1. **Finding an Accurate and Relevant Dataset:**
@@ -12,6 +12,6 @@ The model development process was carried out using Python and Google Colab as t
 The designed code and model will be handed over for further deployment to the CC (Computer Science/Cloud Computing) teams and MD (Mobile Development) teams to integrate the results into the application or production environment.
 
 # ML Important Link
-- [Dataset] (xxxxx)
+- [Dataset](https://github.com/naabilanayara/MaternalCare-ML/blob/main/Maternal%20Health%20Risk%20Data%20Set.csv)
 - [Notebook Source Code](https://colab.research.google.com/drive/1uZf09TvZCuwCN3oHwqCSkFCE-ZViNedT?usp=sharing#scrollTo=OcRSpOs0MDza)
-- [ML Model] (xxxxxxx)
+- [ML Model](https://github.com/naabilanayara/MaternalCare-ML/blob/main/maternal_risk_model.h5)
